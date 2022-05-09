@@ -1,0 +1,22 @@
+.backgr {
+    background-image: url('./img.jpg');
+    background-size: cover;
+    margin: 50px ;
+    padding: 80px;
+}
+
+.mb-3{
+    font-weight: bold;
+
+
+}
+.f1 {
+
+    width: 250px;
+
+    padding-top: 5%;
+    margin: 0 auto;
+}
+.tt {
+    background-color: antiquewhite;
+}
